@@ -5,9 +5,11 @@ Assisting chief data scientist Maria with analyzing school distict data. Data pr
 
 ## Results
 The data was cleaned and verified for null values and any duplicates within the data set. The analysis was to find any correlation of the standardized test results based on the school types(Public vs Charter) budget. The analysis shows the the average school budget for public schools was 38k more than charter schools. With having the school budget average we can now dive in and see how that may effect the school test score average.
+
 ![](Images/School%20Budget.png)
 
 Charter schools have a better standardized average in both reading and math scores even with a lower school budget.
+
 ![](Images/Avg%20math%20score%20vs%20school%20type.png)
 ![](Images/avg%20reading%20score%20vs%20school%20type.png)
 
