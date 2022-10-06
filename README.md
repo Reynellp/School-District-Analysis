@@ -13,6 +13,7 @@ Charter schools have a better standardized average in both reading and math scor
 
 To give a further understanding on the difference in Charter vs Public schools I hae also included a grade break down from the 9th to 12th grade. This will give an understanding of the shortcoming of each school type and where we can improve.
 ![](Images/School%20type%20grades%20math%20and%20reading%20score.png)
+
 As shown above the Charter schools has a spike in standardized scores during the 11th grade and out paces Public schools by 9% in math and 8% in reading scores. However the opposite would happen during the 12th grade and Public schools would out pace Charter schools by 4% in math and 3% in reading. 
 
 ## Analysis that may be useful
